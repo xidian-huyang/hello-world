@@ -20,6 +20,7 @@
 #include <iomanip>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 a line test code
+jsut for test se sef 
 using namespace std;
 bool is(int a[],int n)
 {
